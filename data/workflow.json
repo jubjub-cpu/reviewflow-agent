@@ -1,0 +1,33 @@
+{
+  "notice": "Every vendor, request, amount, site, and policy in this demonstration is fictional and synthetic.",
+  "policies": {
+    "deliveryNoticeHours": 48,
+    "multiSiteApprovalCount": 2,
+    "financeApprovalAmount": 2500,
+    "requiredInvoiceFields": ["prior seats", "requested seats", "purchase order"],
+    "requiredCoverageFields": ["sites", "coverage owner"]
+  },
+  "requests": [
+    {
+      "id": "VR-104",
+      "title": "Three-site delivery window change",
+      "received": "Today, 09:20",
+      "priority": "Standard",
+      "text": "Vendor: Brightline Supply Co.; Type: delivery window change; Sites: 3; Notice: 72 hours; Cost impact: $0; Original window: Tuesday 08:00-11:00; Requested window: Friday 13:00-16:00; Approval owner: Procurement operations manager; Reason: carrier capacity changed."
+    },
+    {
+      "id": "VR-219",
+      "title": "Software renewal seat mismatch",
+      "received": "Today, 10:05",
+      "priority": "Cost review",
+      "text": "Vendor: Mosaic Software Works; Type: invoice renewal exception; Sites: 1; Notice: 12 hours; Cost impact: $4,800; Prior seats: 52; Requested seats: 64; Purchase order: missing; Approval owner: Finance lead; Reason: vendor invoice differs from the approved renewal plan."
+    },
+    {
+      "id": "VR-307",
+      "title": "Holiday cleaning coverage exception",
+      "received": "Yesterday, 16:40",
+      "priority": "Incomplete",
+      "text": "Vendor: Cedar House Services; Type: service coverage exception; Sites: missing; Notice: 96 hours; Cost impact: $900; Coverage owner: missing; Requested window: holiday weekend; Approval owner: Facilities manager; Reason: temporary staffing shortage."
+    }
+  ]
+}
