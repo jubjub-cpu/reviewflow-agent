@@ -22,4 +22,10 @@ Validated on July 17, 2026 before the v1.0.0 publication.
 
 ## Deployment verification
 
-Pending GitHub Pages publication. The deployed URL, HTTP checks, and repeat browser result will be added before v1.0.0 is tagged.
+Verified on July 17, 2026 at `https://jubjub-cpu.github.io/reviewflow-agent/`.
+
+- GitHub Pages build: passed.
+- Deployed browser suite: passed with the same desktop, mobile, keyboard, blocked-state, export, and recovery checks as local.
+- Deployed browser health: zero console errors and zero failed normal requests.
+- Public synthetic workflow fixture: HTTP 200.
+- Published commit identity: author and committer use the GitHub no-reply address.
