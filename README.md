@@ -72,10 +72,6 @@ The product uses semantic landmarks, native controls, a skip link, visible focus
 - Webhook handoff after explicit authorization
 - Configurable approval roles
 
-## AI-Assisted Development Disclosure
-
-This project was built with AI-assisted development. Gabe directed the business problem, workflow, review controls, product scope, tests, validation, and visual refinement while using AI coding tools for implementation support. It does not claim production use, measured savings, or autonomous action.
-
 ## License
 
 MIT. See [LICENSE](LICENSE).
