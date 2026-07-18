@@ -36,4 +36,5 @@ Validated locally on July 18, 2026.
 
 - Added keyboard focus to the horizontally scrollable workflow-stage strip.
 - Repository validator, logic tests, and local browser workflow passed.
-- Local axe-core audit passed at desktop and mobile viewports with zero violations; the same audit is required against the deployed patch before release publication.
+- Local and deployed axe-core audits passed at desktop and mobile viewports with zero violations.
+- The deployed browser workflow passed with zero console errors, failed requests, or desktop/mobile overflow.
