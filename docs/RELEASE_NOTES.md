@@ -1,5 +1,11 @@
 # Release Notes
 
+## v1.0.1 - Accessibility hardening
+
+- Made the horizontally scrollable workflow-stage strip keyboard focusable on narrow screens.
+- Preserved the complete two-gate workflow and existing desktop/mobile browser coverage.
+- Added automated axe-core verification to the release gate.
+
 ## v1.0.0
 
 - Three fictional vendor exceptions

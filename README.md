@@ -2,7 +2,7 @@
 
 ReviewFlow Agent is a rules-plus-AI vendor exception workflow for procurement operations. It extracts request facts, classifies the exception, runs visible policy checks, proposes an action plan, and requires two separate human decisions before a response is considered ready.
 
-[Live demo](https://jubjub-cpu.github.io/reviewflow-agent/) | [Case study](docs/CASE_STUDY.md) | [Architecture](docs/ARCHITECTURE.md) | [Release notes](docs/RELEASE_NOTES.md)
+[Live demo](https://jubjub-cpu.github.io/reviewflow-agent/) | [Case study](docs/CASE_STUDY.md) | [Architecture](docs/ARCHITECTURE.md) | [v1.0.1 release](https://github.com/jubjub-cpu/reviewflow-agent/releases/tag/v1.0.1)
 
 ## Business Problem
 

@@ -29,3 +29,11 @@ Verified on July 17, 2026 at `https://jubjub-cpu.github.io/reviewflow-agent/`.
 - Deployed browser health: zero console errors and zero failed normal requests.
 - Public synthetic workflow fixture: HTTP 200.
 - Published commit identity: author and committer use the GitHub no-reply address.
+
+## v1.0.1 hardening
+
+Validated locally on July 18, 2026.
+
+- Added keyboard focus to the horizontally scrollable workflow-stage strip.
+- Repository validator, logic tests, and local browser workflow passed.
+- Local axe-core audit passed at desktop and mobile viewports with zero violations; the same audit is required against the deployed patch before release publication.
